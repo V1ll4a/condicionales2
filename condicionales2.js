@@ -1,10 +1,10 @@
 number= Number(prompt("ingrese un numero"))
-if (Number. isInteger(number/ 15))
+   if (Number. isInteger(number/ 15))
 respuesta="FizzBuzz"
 else
     if (Number. isInteger(number/ 5))
     respuesta="Buzz"
-else
+else  
    if (Number. isInteger(number/ 3)) 
      respuesta="Fizz"
    
